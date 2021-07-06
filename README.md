@@ -20,5 +20,5 @@ A graphical user interface item spy that requires a USB Gecko inspired by the it
 2. Boot up your game and wait until you are on the main menu of the game.
 3. You may now run the program and connect after any point after the main menu of the game has loaded. Note that information in the item spy screen will not be displayed unless you are in a race. This interface is only designed for online play and may not work as intended offline.
 
-##Credits
+## Credits
 This program was developed by fishguy6564. Anyone may use this program for anything they may see use for. Please do not redistribute this program without my permission. Please report any bugs to fishguy6564#1228 on discord.
