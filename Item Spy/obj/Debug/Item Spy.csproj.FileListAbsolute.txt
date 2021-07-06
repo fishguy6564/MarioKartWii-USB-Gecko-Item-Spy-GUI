@@ -1,0 +1,12 @@
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\bin\Debug\Item Spy.exe.config
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\bin\Debug\Item Spy.exe
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\bin\Debug\Item Spy.pdb
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item Spy.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item_Spy.ItemSpy.resources
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item_Spy.MainForm.resources
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item_Spy.Properties.Resources.resources
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item_Spy.Settings.resources
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item Spy.csproj.GenerateResource.cache
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item Spy.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item Spy.exe
+C:\Users\dimit\Desktop\Development\Wii\Item Spy\Item Spy\obj\Debug\Item Spy.pdb
